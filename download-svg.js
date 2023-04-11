@@ -5,11 +5,12 @@ const imgs = require('./imgs.json')
 // https://www.c82.net/twining/plants/?id=1
 const script = imgs.reduce((previousValue, currentValue, currentIndex) => {
   const { title, subtitle } = currentValue
+  const name = `${title}-${subtitle}.svg`.replace(/\s*/g, "")
   return previousValue += `
     test('${title}-${subtitle}', async ({ page }) => {
       await page.goto('https://www.c82.net/twining/plants/?id=${currentIndex + 1}');
       const svgHtml = await page.$eval('div.plant-illustration-masks', el => el.innerHTML);
-      fs.writeFileSync('${__dirname}/svgs/${title}-${subtitle}.svg', svgHtml)
+      fs.writeFileSync('${__dirname}/svgs/${name}.svg', svgHtml)
     });
   `
 }, `

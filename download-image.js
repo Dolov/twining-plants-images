@@ -28,8 +28,8 @@ const init = async () => {
 		if (index < 67) continue
 		const element = imgs[index];
 		const { smUrl, lgUrl, title, subtitle } = element
-		await downloadFile(smUrl, './sm-images', `${title}-${subtitle}.jpg`)
-		await downloadFile(lgUrl, './lg-images', `${title}-${subtitle}.jpg`)
+		await downloadFile(smUrl, './sm-images', `${title}-${subtitle}.jpg`.replace(/\s*/g, ""))
+		await downloadFile(lgUrl, './lg-images', `${title}-${subtitle}.jpg`.replace(/\s*/g, ""))
 	}
 }
 
