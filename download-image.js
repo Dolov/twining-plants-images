@@ -25,7 +25,6 @@ async function downloadFile(url, filepath, name) {
 const init = async () => {
 	for (let index = 0; index < imgs.length; index++) {
 		console.log(index)
-		if (index < 67) continue
 		const element = imgs[index];
 		const { smUrl, lgUrl, title, subtitle } = element
 		await downloadFile(smUrl, './sm-images', `${title}-${subtitle}.jpg`.replace(/\s*/g, ""))
