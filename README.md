@@ -1,0 +1,6 @@
+![img](puzzle-guide.jpg)
+![img](sm-images/1.%20RANUNCULACE%C3%86-Crowfoot.jpg)
+![img](sm-images/101.%20SCROPHULARIACEÆ-Fig-Wort.jpg)
+![img](sm-images/102.%20LAMIACEÆ-Dead-Nettle.jpg)
+![img](lg-images/103.%20OROBANCHACEÆ-Broom-Rape.jpg)
+![img](sm-images/104.%20VERBENACEÆ-Vervain.jpg)
