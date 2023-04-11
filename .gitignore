@@ -1,3 +1,5 @@
 node_modules
 pnpm-lock.yaml
 .vscode
+playwright-report
+test-results
