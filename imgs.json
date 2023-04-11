@@ -1,0 +1,962 @@
+[
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/ranunculaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/ranunculaceae.jpg",
+        "title": "1. RANUNCULACEÆ",
+        "subtitle": "Crowfoot"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/dilleniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/dilleniaceae.jpg",
+        "title": "2. DILLENIACEÆ",
+        "subtitle": "Dillenia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/magnoliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/magnoliaceae.jpg",
+        "title": "3. MAGNOLIACEÆ",
+        "subtitle": "Magnolia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/anonaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/anonaceae.jpg",
+        "title": "4. ANONACEÆ",
+        "subtitle": "Custard-Apple"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/menispermaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/menispermaceae.jpg",
+        "title": "5. MENISPERMACEÆ",
+        "subtitle": "Moon-Seed"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/berberidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/berberidaceae.jpg",
+        "title": "6. BERBERIDACEÆ",
+        "subtitle": "Berberry"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/fumariaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/fumariaceae.jpg",
+        "title": "7. FUMARIACEÆ",
+        "subtitle": "Fumitory"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/nympheaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/nympheaceae.jpg",
+        "title": "8. NYMPHEACEÆ",
+        "subtitle": "Water-Lily"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/papaveraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/papaveraceae.jpg",
+        "title": "9. PAPAVERACEÆ",
+        "subtitle": "Poppy"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/sarraceniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/sarraceniaceae.jpg",
+        "title": "10. SARRACENIACEÆ",
+        "subtitle": "Side-Saddle Flower"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cruciaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cruciaceae.jpg",
+        "title": "11. CRUCIACEÆ",
+        "subtitle": "Cruciform"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/capparidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/capparidaceae.jpg",
+        "title": "12. CAPPARIDACEÆ",
+        "subtitle": "Caper"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/bixaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/bixaceae.jpg",
+        "title": "13. BIXACEÆ",
+        "subtitle": "Arnotto"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/passifloraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/passifloraceae.jpg",
+        "title": "14. PASSIFLORACEÆ",
+        "subtitle": "Passion-Flower"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/violaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/violaceae.jpg",
+        "title": "15. VIOLACEÆ",
+        "subtitle": "Violet"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/polygalaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/polygalaceae.jpg",
+        "title": "16. POLYGALACEÆ",
+        "subtitle": "Milkwort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/resedaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/resedaceae.jpg",
+        "title": "17. RESEDACEÆ",
+        "subtitle": "Mignonette"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/droseraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/droseraceae.jpg",
+        "title": "18. DROSERACEÆ",
+        "subtitle": "Sun-Dew"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/oxalidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/oxalidaceae.jpg",
+        "title": "19. OXALIDACEÆ",
+        "subtitle": "Wood-Sorrel"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/pittosporacae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/pittosporacae.jpg",
+        "title": "20. PITTOSPORACEÆ",
+        "subtitle": "Pittosporum"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/linaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/linaceae.jpg",
+        "title": "21. LINACEÆ",
+        "subtitle": "Flax"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cistaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cistaceae.jpg",
+        "title": "22. CISTACEÆ",
+        "subtitle": "Rock-Rose"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/malvaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/malvaceae.jpg",
+        "title": "23. MALVACEÆ",
+        "subtitle": "Mallow"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/tropaeolaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/tropaeolaceae.jpg",
+        "title": "24. TROPÆOLACEÆ",
+        "subtitle": "Indian Cress, or Nasturtium"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/byttneriaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/byttneriaceae.jpg",
+        "title": "25. BYTTNERIACEÆ",
+        "subtitle": "Byttneria"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/bombaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/bombaceae.jpg",
+        "title": "26. BOMBACEÆ",
+        "subtitle": "Silk-Cotton Tree"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/tiliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/tiliaceae.jpg",
+        "title": "27. TILIACEÆ",
+        "subtitle": "Linden or Lime-Tree"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/sapindaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/sapindaceae.jpg",
+        "title": "28. SAPINDACEÆ",
+        "subtitle": "Soap-Tree"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/hippocastanaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/hippocastanaceae.jpg",
+        "title": "29. HIPPOCASTANACEÆ",
+        "subtitle": "Horse-Chesnut"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/aceraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/aceraceae.jpg",
+        "title": "30. ACERACEÆ",
+        "subtitle": "Maple"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/malpighiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/malpighiaceae.jpg",
+        "title": "31. MALPIGHIACEÆ",
+        "subtitle": "Barbadoes Cherry"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/hippocrateaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/hippocrateaceae.jpg",
+        "title": "32. HIPPOCRATEACEÆ",
+        "subtitle": "Hippocratea"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/hypericaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/hypericaceae.jpg",
+        "title": "33. HYPERICACEÆ",
+        "subtitle": "St. John’s Wort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/clusiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/clusiaceae.jpg",
+        "title": "34. CLUSIACEÆ",
+        "subtitle": "Gamboge"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/dipterocarpaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/dipterocarpaceae.jpg",
+        "title": "35. DIPTEROCARPACEÆ",
+        "subtitle": "Dipterocarpus"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/marcgraviaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/marcgraviaceae.jpg",
+        "title": "36. MARCGRAVIACEÆ",
+        "subtitle": "Marcgravia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/vitaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/vitaceae.jpg",
+        "title": "37. VITACEÆ",
+        "subtitle": "Vine"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/geraniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/geraniaceae.jpg",
+        "title": "38. GERANIACEÆ",
+        "subtitle": "Geranium"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cedrelaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cedrelaceae.jpg",
+        "title": "39. CEDRELACEÆ",
+        "subtitle": "Mahogany"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/meliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/meliaceae.jpg",
+        "title": "40. MELIACEÆ",
+        "subtitle": "Bead-Tree"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/aurantiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/aurantiaceae.jpg",
+        "title": "41. AURANTIACEÆ",
+        "subtitle": "Orange"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/camelliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/camelliaceae.jpg",
+        "title": "42. CAMELLIACEÆ",
+        "subtitle": "Camellia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/olacaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/olacaceae.jpg",
+        "title": "43. OLACACEÆ",
+        "subtitle": "Olax"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/rutaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/rutaceae.jpg",
+        "title": "44. RUTACEÆ",
+        "subtitle": "Rue"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/simarubaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/simarubaceae.jpg",
+        "title": "45. SIMARUBACEÆ",
+        "subtitle": "Quassia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/samydaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/samydaceae.jpg",
+        "title": "46. SAMYDACEÆ",
+        "subtitle": "Samyda"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/rhamnaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/rhamnaceae.jpg",
+        "title": "47. RHAMNACEÆ",
+        "subtitle": "Buckthorn"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/terebinthaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/terebinthaceae.jpg",
+        "title": "48. TEREBINTHACEÆ",
+        "subtitle": "Turpentine-Tree"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/leguminosae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/leguminosae.jpg",
+        "title": "49. LEGUMINOSÆ",
+        "subtitle": "Pea"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/juglandaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/juglandaceae.jpg",
+        "title": "50. JUGLANDACEÆ",
+        "subtitle": "Walnut"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/rosaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/rosaceae.jpg",
+        "title": "51. ROSACEÆ",
+        "subtitle": "Rose"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/pomaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/pomaceae.jpg",
+        "title": "52. POMACEÆ",
+        "subtitle": "Apple"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/amygdalaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/amygdalaceae.jpg",
+        "title": "53. AMYGDALACEÆ",
+        "subtitle": "Almond"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lythraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lythraceae.jpg",
+        "title": "54. LYTHRACEÆ",
+        "subtitle": "Loosestrife"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/tamaricaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/tamaricaceae.jpg",
+        "title": "55. TAMARICACEÆ",
+        "subtitle": "Tamarisk"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/melastomaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/melastomaceae.jpg",
+        "title": "56. MELASTOMACEÆ",
+        "subtitle": "Melastoma"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/myrtaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/myrtaceae.jpg",
+        "title": "57. MYRTACEÆ",
+        "subtitle": "Myrtle"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lecythidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lecythidaceae.jpg",
+        "title": "58. LECYTHIDACEÆ",
+        "subtitle": "Lecythis"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/combretaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/combretaceae.jpg",
+        "title": "59. COMBRETACEÆ",
+        "subtitle": "Combretum"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/loasaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/loasaceae.jpg",
+        "title": "60. LOASACEÆ",
+        "subtitle": "Loasa"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cucurbitaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cucurbitaceae.jpg",
+        "title": "61. CUCURBITACEÆ",
+        "subtitle": "Gourd"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/onagraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/onagraceae.jpg",
+        "title": "62. ONAGRACEÆ",
+        "subtitle": "Evening Primrose"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/mesembryaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/mesembryaceae.jpg",
+        "title": "63. MESEMBRYACEÆ",
+        "subtitle": "Fig-Marigold"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/portulaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/portulaceae.jpg",
+        "title": "64. PORTULACEÆ",
+        "subtitle": "Purslane"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cactaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cactaceae.jpg",
+        "title": "65. CACTACEÆ",
+        "subtitle": "Cactus"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/grossulariaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/grossulariaceae.jpg",
+        "title": "66. GROSSULARIACEÆ",
+        "subtitle": "Currant and Gooseberry"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/crassulaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/crassulaceae.jpg",
+        "title": "67. CRASSULACEÆ",
+        "subtitle": "Houseleek"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/saxifragaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/saxifragaceae.jpg",
+        "title": "68. SAXIFRAGACEÆ",
+        "subtitle": "Saxifrage"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/caryophyllaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/caryophyllaceae.jpg",
+        "title": "69. CARYOPHYLLACEÆ",
+        "subtitle": "Clove-Pink"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/umbellaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/umbellaceae.jpg",
+        "title": "70. UMBELLACEÆ",
+        "subtitle": "Umbel-Flowered"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/araliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/araliaceae.jpg",
+        "title": "71. ARALIACEÆ",
+        "subtitle": "Aralia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/caprifoliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/caprifoliaceae.jpg",
+        "title": "72. CAPRIFOLIACEÆ",
+        "subtitle": "Honeysuckle"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/loranthaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/loranthaceae.jpg",
+        "title": "73. LORANTHACEÆ",
+        "subtitle": "Mistletoe"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/rubiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/rubiaceae.jpg",
+        "title": "74. RUBIACEÆ",
+        "subtitle": "Madder"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/valerianaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/valerianaceae.jpg",
+        "title": "75. VALERIANACEÆ",
+        "subtitle": "Valerian"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/compositaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/compositaceae.jpg",
+        "title": "76. COMPOSITACEÆ",
+        "subtitle": "Composite"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/dipsaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/dipsaceae.jpg",
+        "title": "77. DIPSACEÆ",
+        "subtitle": "Teasel"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/stylidiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/stylidiaceae.jpg",
+        "title": "78. STYLIDIACEÆ",
+        "subtitle": "Style-Wort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/goodeniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/goodeniaceae.jpg",
+        "title": "79. GOODENIACEÆ",
+        "subtitle": "Goodenia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/campanulaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/campanulaceae.jpg",
+        "title": "80. CAMPANULACEÆ",
+        "subtitle": "Bell-Flower"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lobeliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lobeliaceae.jpg",
+        "title": "81. LOBELIACEÆ",
+        "subtitle": "Lobelia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/gesneraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/gesneraceae.jpg",
+        "title": "82. GESNERACEÆ",
+        "subtitle": "Gesnera"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/vacciniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/vacciniaceae.jpg",
+        "title": "83. VACCINIACEÆ",
+        "subtitle": "Cranberry"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/ericaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/ericaceae.jpg",
+        "title": "84. ERICACEÆ",
+        "subtitle": "Heath"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/belvisiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/belvisiaceae.jpg",
+        "title": "85. BELVISIACEÆ",
+        "subtitle": "Napoleona"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/myrsinaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/myrsinaceae.jpg",
+        "title": "86. MYRSINACEÆ",
+        "subtitle": "Myrsine"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/sapotaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/sapotaceae.jpg",
+        "title": "87. SAPOTACEÆ",
+        "subtitle": "Sappodilla"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/ebenaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/ebenaceae.jpg",
+        "title": "88. EBENACEÆ",
+        "subtitle": "Ebony"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/oleaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/oleaceae.jpg",
+        "title": "89. OLEACEÆ",
+        "subtitle": "Olive"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/jasminaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/jasminaceae.jpg",
+        "title": "90. JASMINEACEÆ",
+        "subtitle": "Jasmine"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/strychnaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/strychnaceae.jpg",
+        "title": "91. STRYCHNACEÆ",
+        "subtitle": "Strychnos"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/apocynaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/apocynaceae.jpg",
+        "title": "92. APOCYNACEÆ",
+        "subtitle": "Dog’s-Bane"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/rhizophoraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/rhizophoraceae.jpg",
+        "title": "93. RHIZOPHORACEÆ",
+        "subtitle": "Mangrove"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/gentianaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/gentianaceae.jpg",
+        "title": "94. GENTIANACEÆ",
+        "subtitle": "Gentian"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/bignoniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/bignoniaceae.jpg",
+        "title": "95. BIGNONIACEÆ",
+        "subtitle": "Trumpet-Flower"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/polemoniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/polemoniaceae.jpg",
+        "title": "96. POLEMONIACEÆ",
+        "subtitle": "Polemonium"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/convolvulaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/convolvulaceae.jpg",
+        "title": "97. CONVOLVULACEÆ",
+        "subtitle": "Bind-Weed"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/boraginaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/boraginaceae.jpg",
+        "title": "98. BORAGINACEÆ",
+        "subtitle": "Borage"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/hydrophyllaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/hydrophyllaceae.jpg",
+        "title": "99. HYDROPHYLLACEÆ",
+        "subtitle": "Water-Leaf"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/solanaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/solanaceae.jpg",
+        "title": "100. SOLANACEÆ",
+        "subtitle": "Potato"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/scrophulariaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/scrophulariaceae.jpg",
+        "title": "101. SCROPHULARIACEÆ",
+        "subtitle": "Fig-Wort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lamiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lamiaceae.jpg",
+        "title": "102. LAMIACEÆ",
+        "subtitle": "Dead-Nettle"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/orobanchaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/orobanchaceae.jpg",
+        "title": "103. OROBANCHACEÆ",
+        "subtitle": "Broom-Rape"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/verbenaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/verbenaceae.jpg",
+        "title": "104. VERBENACEÆ",
+        "subtitle": "Vervain"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/acanthaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/acanthaceae.jpg",
+        "title": "105. ACANTHACEÆ",
+        "subtitle": "Acanthus"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/utriculariaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/utriculariaceae.jpg",
+        "title": "106. UTRICULARIACEÆ",
+        "subtitle": "Bladder-Wort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/primulaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/primulaceae.jpg",
+        "title": "107. PRIMULACEÆ",
+        "subtitle": "Primrose"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/plumbaginaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/plumbaginaceae.jpg",
+        "title": "108. PLUMBAGINACEÆ",
+        "subtitle": "Lead-Wort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/plantaginaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/plantaginaceae.jpg",
+        "title": "109. PLANTAGINACEÆ",
+        "subtitle": "Rib-Wort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/nyctaginaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/nyctaginaceae.jpg",
+        "title": "110. NYCTAGINACEÆ",
+        "subtitle": "Marvel of Peru"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/amarantaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/amarantaceae.jpg",
+        "title": "111. AMARANTACEÆ",
+        "subtitle": "Amaranth"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/chenopodiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/chenopodiaceae.jpg",
+        "title": "112. CHENOPODIACEÆ",
+        "subtitle": "Goose-Foot"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/phytolaccaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/phytolaccaceae.jpg",
+        "title": "113. PHYTOLACCACEÆ",
+        "subtitle": "Phytolacca"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/begoniaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/begoniaceae.jpg",
+        "title": "114. BEGONIACEÆ",
+        "subtitle": "Begonia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/polygonaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/polygonaceae.jpg",
+        "title": "115. POLYGONACEÆ",
+        "subtitle": "Buck-Wheat"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lauraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lauraceae.jpg",
+        "title": "116. LAURACEÆ",
+        "subtitle": "Laurel"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/myristicaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/myristicaceae.jpg",
+        "title": "117. MYRISTICACEÆ",
+        "subtitle": "Nutmeg"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/proteaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/proteaceae.jpg",
+        "title": "118. PROTEACEÆ",
+        "subtitle": "Protea"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/thymelaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/thymelaceae.jpg",
+        "title": "119. THYMELACEÆ",
+        "subtitle": "Daphne"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/santalaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/santalaceae.jpg",
+        "title": "120. SANTALACEÆ",
+        "subtitle": "Sandal-Wood"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/elaeagnaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/elaeagnaceae.jpg",
+        "title": "121. ELÆAGNACEÆ",
+        "subtitle": "Oleaster"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/aristolochiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/aristolochiaceae.jpg",
+        "title": "122. ARISTOLOCHIACEÆ",
+        "subtitle": "Aristolochia"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/euphorbiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/euphorbiaceae.jpg",
+        "title": "123. EUPHORBIACEÆ",
+        "subtitle": "Spurge"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/artocarpaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/artocarpaceae.jpg",
+        "title": "124. ARTOCARPACEÆ",
+        "subtitle": "Bread-Fruit"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/urticaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/urticaceae.jpg",
+        "title": "125. URTICACEÆ",
+        "subtitle": "Nettle"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/piperaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/piperaceae.jpg",
+        "title": "126. PIPERACEÆ",
+        "subtitle": "Pepper"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/amentaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/amentaceae.jpg",
+        "title": "127. AMENTACEÆ",
+        "subtitle": "Oak"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/coniferaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/coniferaceae.jpg",
+        "title": "128. CONIFERACEÆ",
+        "subtitle": "Fir"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cycadaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cycadaceae.jpg",
+        "title": "129. CYCADACEÆ",
+        "subtitle": "Cycas"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/hydrocharidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/hydrocharidaceae.jpg",
+        "title": "130. HYDROCHARIDACEÆ",
+        "subtitle": "Frog-Bit"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/alismaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/alismaceae.jpg",
+        "title": "131. ALISMACEÆ",
+        "subtitle": "Water-Plantain"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/orchidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/orchidaceae.jpg",
+        "title": "132. ORCHIDACEÆ",
+        "subtitle": "Orchis"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/zingiberaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/zingiberaceae.jpg",
+        "title": "133. ZINGIBERACEÆ",
+        "subtitle": "Ginger"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/musaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/musaceae.jpg",
+        "title": "134. MUSACEÆ",
+        "subtitle": "Banana"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/haemodoraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/haemodoraceae.jpg",
+        "title": "135. HÆMODORACEÆ",
+        "subtitle": "Blood-Root"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/amaryllidaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/amaryllidaceae.jpg",
+        "title": "136. AMARYLLIDACEÆ",
+        "subtitle": "Amaryllis"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/iridaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/iridaceae.jpg",
+        "title": "137. IRIDACEÆ",
+        "subtitle": "Iris"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/bromeliaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/bromeliaceae.jpg",
+        "title": "138. BROMELIACEÆ",
+        "subtitle": "Pine-Apple"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/dioscoraceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/dioscoraceae.jpg",
+        "title": "139. DIOSCORACEÆ",
+        "subtitle": "Yam"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/smilaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/smilaceae.jpg",
+        "title": "140. SMILACEÆ",
+        "subtitle": "Sarsaparilla"
+    },
+    {
+        "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "bigUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "title": "141. LILIACEÆ",
+        "subtitle": "Lily"
+    },
+    {
+        "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "bigUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "title": "142. COLCHICACEÆ",
+        "subtitle": "Colchicum"
+    },
+    {
+        "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "bigUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "title": "143. COMMELINACEÆ",
+        "subtitle": "Spider-Wort"
+    },
+    {
+        "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "bigUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "title": "144. JUNCACEÆ",
+        "subtitle": "Rush"
+    },
+    {
+        "imgUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "bigUrl": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+        "title": "145. PALMACEÆ",
+        "subtitle": "Palm"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/pandanaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/pandanaceae.jpg",
+        "title": "146. PANDANACEÆ",
+        "subtitle": "Screw-Pine"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/typhaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/typhaceae.jpg",
+        "title": "147. TYPHACEÆ",
+        "subtitle": "Bulrush"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/araceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/araceae.jpg",
+        "title": "148. ARACEÆ",
+        "subtitle": "Arum"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/cyperaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/cyperaceae.jpg",
+        "title": "149. CYPERACEÆ",
+        "subtitle": "Sedge"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/graminaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/graminaceae.jpg",
+        "title": "150. GRAMINACEÆ",
+        "subtitle": "Grass"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/naiadaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/naiadaceae.jpg",
+        "title": "151. NAIADACEÆ",
+        "subtitle": "Water-Weed"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/equisetaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/equisetaceae.jpg",
+        "title": "152. EQUISETACEÆ",
+        "subtitle": "Horse-Tail"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lycopodiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lycopodiaceae.jpg",
+        "title": "153. LYCOPODIACEÆ",
+        "subtitle": "Lycopodium"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/filicaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/filicaceae.jpg",
+        "title": "154. FILICACEÆ",
+        "subtitle": "Fern"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/bryaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/bryaceae.jpg",
+        "title": "155. BRYACEÆ",
+        "subtitle": "Moss"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/marchantiaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/marchantiaceae.jpg",
+        "title": "156. MARCHANTIACEÆ",
+        "subtitle": "Liverwort"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/characeae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/characeae.jpg",
+        "title": "157. CHARACEÆ",
+        "subtitle": "Chara"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/lichenaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/lichenaceae.jpg",
+        "title": "158. LICHENACEÆ",
+        "subtitle": "Lichen"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/fungaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/fungaceae.jpg",
+        "title": "159. FUNGACEÆ",
+        "subtitle": "Fungus"
+    },
+    {
+        "imgUrl": "https://www.c82.net/images/twining/small/fucaceae.jpg",
+        "bigUrl": "https://www.c82.net/images/twining/large/fucaceae.jpg",
+        "title": "160. FUCACEÆ",
+        "subtitle": "Sea-Weed"
+    }
+]
