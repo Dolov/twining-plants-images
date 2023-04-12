@@ -1,6 +1,6 @@
 ![img](./puzzle-guide.jpg)
 
-> ig-images 文件夹下为高清图片
+> lg-images 文件夹下为高清图片
 > sm-images 文件夹下为压缩图片
 > svgs 文件夹下为 svg 图标
 
